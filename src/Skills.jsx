@@ -1,4 +1,4 @@
-import Card from "./card"
+import Card from "./Card"
 import reactLogo from "./assets/react.png"
 import typeScript from './assets/typeScript.png'
 import net from './assets/dotnet.png';
